@@ -25,7 +25,3 @@ Visit [torch-to-onnx-zoo](https://github.com/skykim/torch-to-onnx-zoo?tab=readme
 
 ## Todo
 As this project is on going there is a lot more left that needs to be worked on, so I repeat this is not a resource for production ready workflow ideas or systems and lots of it was put together very quickly.
-
-
-## Credits
-WIP
