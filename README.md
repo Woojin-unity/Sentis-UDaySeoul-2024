@@ -12,6 +12,7 @@ We highly don't want to take traffic.
 
 
 ## How To Get Started
+Make sure if you install lfs if not run "git lfs install"
 Download and install Unity 2023.2.17 ([Unity HUB](unityhub://2023.2.17f1/396a1c6fe404), [Unity Website](https://unity.com/kr/releases/editor/whats-new/2023.2.17)]
 
 | Scene Name | Remark |
